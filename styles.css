@@ -8,7 +8,7 @@ body {
   font-family: Arial, sans-serif;
 
   /* 배경 이미지 */
-  background-image: url('background.png');
+  background-image: url('bg3.png');
   background-repeat: no-repeat;
   background-size: cover;        /* 화면에 꽉 채우기 */
   background-position: center;   /* 중앙 정렬 */
@@ -16,7 +16,7 @@ body {
 
 /* 폼 컨테이너 스타일 */
 #gpa-form {
-  background: rgba(255, 255, 255, 0.85); /* 흰색 반투명 */
+  background: rgba(255, 255, 255, 1); /* 흰색 반투명 */
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
